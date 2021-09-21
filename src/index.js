@@ -1,4 +1,4 @@
-import { createStore } from "./createStore";
+import { createStore } from "redux";
 import './styles.css'
 import { rootReducer } from "./redux/rootReducer";
 
